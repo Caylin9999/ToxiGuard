@@ -1,0 +1,13 @@
+aop id,aop title,OECD status,taxonomic applicability,Evidence for human,Prototypical Stressors,Adjacent
+Aop:104,Altered ion channel activity leading impaired heart function,,,,,
+Aop:261,L-type calcium channel blockade leading to heart failure via decrease in cardiac contractility,Under Development,Vertebrates,,"Calcium channel blockers,
+Nifedipine,
+Amlodipine,
+Felodipine,
+Nisoldipine,
+Nimodipine,
+Nitrendipine,
+Diltiazem,
+Verapamil",
+Aop:433,hERG channel blockade leading to sudden cardiac death,,human,High,,
+Aop:480,Mitochondrial complexes inhibition leading to heart failure via decreased ATP production,Under Development,,,,
